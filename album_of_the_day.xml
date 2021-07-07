@@ -1,523 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://rcoppolo.github.io/feeds/all.xml</id>
-    <title>Combined feed</title>
-    <updated>2021-07-07T11:13:33.244Z</updated>
+    <id>https://daily.bandcamp.com/album-of-the-day</id>
+    <title>Bandcamp: Album of the Day</title>
+    <updated>2021-07-07T11:13:33.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[ The Goon Sax - Mirror II 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/the-goon-sax/</id>
-        <link href="https://www.stereogum.com/tag/the-goon-sax/"/>
-        <updated>2021-07-07T11:03:41.290Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/the-goon-sax/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="The Goon Sax - Mirror II" src="https://static.stereogum.com/uploads/2021/07/cover-The-Goon-Sax-Mirror-II-1625626971-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/the-goon-sax/"> The Goon Sax - Mirror II </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.jdoqocy.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fthe-goon-sax%2Fmirror-ii" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Izzy True - Our Beautiful Baby World 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/izzy-true/</id>
-        <link href="https://www.stereogum.com/tag/izzy-true/"/>
-        <updated>2021-07-07T11:03:41.305Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/izzy-true/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Izzy True - Our Beautiful Baby World" src="https://static.stereogum.com/uploads/2021/06/Izzy-True-Our-Beautiful-Baby-World-1625068022-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/izzy-true/"> Izzy True - Our Beautiful Baby World </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-                  <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://izzytrue.bandcamp.com/album/our-beautiful-baby-world" target="_blank">
-            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
-          		<span class="network_amazon">Bandcamp</span>
-          	</a> 
-          </div>
-        
-        
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Tyler, The Creator - Call Me If You Get Lost 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/tyler-the-creator/</id>
-        <link href="https://www.stereogum.com/tag/tyler-the-creator/"/>
-        <updated>2021-07-07T11:03:41.306Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/tyler-the-creator/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Tyler, The Creator - Call Me If You Get Lost" src="https://static.stereogum.com/uploads/2021/06/Call-Me-If-You-Get-Lost-1624669801-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/tyler-the-creator/"> Tyler, The Creator - Call Me If You Get Lost </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9" target="_blank">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
-        
-        
-        
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Doja Cat - Planet Her 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/doja-cat/</id>
-        <link href="https://www.stereogum.com/tag/doja-cat/"/>
-        <updated>2021-07-07T11:03:41.306Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/doja-cat/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Doja Cat - Planet Her" src="https://static.stereogum.com/uploads/2021/06/doja-cat-planet-her-1624634596-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/doja-cat/"> Doja Cat - Planet Her </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW" target="_blank">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
-        
-        
-        
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Pom Pom Squad - Death Of A Cheerleader 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/pom-pom-squad/</id>
-        <link href="https://www.stereogum.com/tag/pom-pom-squad/"/>
-        <updated>2021-07-07T11:03:41.307Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/pom-pom-squad/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Pom Pom Squad - Death Of A Cheerleader" src="https://static.stereogum.com/uploads/2021/06/Death-Of-A-Cheerleader-1624634472-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/pom-pom-squad/"> Pom Pom Squad - Death Of A Cheerleader </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.roughtrade.com/us/pom-pom-squad/death-of-a-cheerleader" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Faye Webster - I Know I’m Funny haha 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/faye-webster/</id>
-        <link href="https://www.stereogum.com/tag/faye-webster/"/>
-        <updated>2021-07-07T11:03:41.308Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/faye-webster/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Faye Webster - I Know I’m Funny haha" src="https://static.stereogum.com/uploads/2021/06/i-know-im-funny-haha-1624634236-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/faye-webster/"> Faye Webster - I Know I’m Funny haha </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.roughtrade.com/us/faye-webster/i-know-i-m-funny-haha" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Spellling - The Turning Wheel 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/spellling/</id>
-        <link href="https://www.stereogum.com/tag/spellling/"/>
-        <updated>2021-07-07T11:03:41.308Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/spellling/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Spellling - The Turning Wheel" src="https://static.stereogum.com/uploads/2021/06/spellling-1624634137-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/spellling/"> Spellling - The Turning Wheel </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.roughtrade.com/us/spellling/the-turning-wheel" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Drug Church - Tawny EP 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/drug-church/</id>
-        <link href="https://www.stereogum.com/tag/drug-church/"/>
-        <updated>2021-07-07T11:03:41.309Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/drug-church/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Drug Church - Tawny EP" src="https://static.stereogum.com/uploads/2021/06/drug-church-1624634067-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/drug-church/"> Drug Church - Tawny EP </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-                  <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://drugchurch.bandcamp.com/album/tawny" target="_blank">
-            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
-          		<span class="network_amazon">Bandcamp</span>
-          	</a> 
-          </div>
-        
-        
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Lighting Bug - A Color Of The Sky 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/lightning-bug/</id>
-        <link href="https://www.stereogum.com/tag/lightning-bug/"/>
-        <updated>2021-07-07T11:03:41.309Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/lightning-bug/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Lighting Bug - A Color Of The Sky" src="https://static.stereogum.com/uploads/2021/06/A-Color-Of-The-Sky-1624629140-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/lightning-bug/"> Lighting Bug - A Color Of The Sky </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Flightning-bug%2Fa-color-of-the-sky" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ SAULT - NINE 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/sault/</id>
-        <link href="https://www.stereogum.com/tag/sault/"/>
-        <updated>2021-07-07T11:03:41.310Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/sault/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="SAULT - NINE" src="https://static.stereogum.com/uploads/2021/06/a2352533554_10-1624578472-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/sault/"> SAULT - NINE </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-                  <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://saultglobal.bandcamp.com/album/nine" target="_blank">
-            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
-          		<span class="network_amazon">Bandcamp</span>
-          	</a> 
-          </div>
-        
-        
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ 2nd Grade - Wish You Were Here Tour Revisited 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/2nd-grade/</id>
-        <link href="https://www.stereogum.com/tag/2nd-grade/"/>
-        <updated>2021-07-07T11:03:41.317Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/2nd-grade/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="2nd Grade - Wish You Were Here Tour Revisited" src="https://static.stereogum.com/uploads/2021/06/640192-1624478442-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/2nd-grade/"> 2nd Grade - Wish You Were Here Tour Revisited </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2F2nd-grade%2Fwish-you-were-here-tour-revisited" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Squirrel Flower - Planet (i) 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/squirrel-flower/</id>
-        <link href="https://www.stereogum.com/tag/squirrel-flower/"/>
-        <updated>2021-07-07T11:03:41.320Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/squirrel-flower/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Squirrel Flower - Planet (i)" src="https://static.stereogum.com/uploads/2021/06/PRC-435_HiRes-1624377999-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/squirrel-flower/"> Squirrel Flower - Planet (i) </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fsquirrel-flower%2Fplanet-i%2Flp-plus" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Lucy Dacus - Home Video 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/lucy-dacus/</id>
-        <link href="https://www.stereogum.com/tag/lucy-dacus/"/>
-        <updated>2021-07-07T11:03:41.321Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/lucy-dacus/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Lucy Dacus - Home Video" src="https://static.stereogum.com/uploads/2021/06/lucy-dacus-home-video-1624366613-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/lucy-dacus/"> Lucy Dacus - Home Video </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Flucy-dacus%2Fhome-video" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ MIKE - Disco! 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/mike/</id>
-        <link href="https://www.stereogum.com/tag/mike/"/>
-        <updated>2021-07-07T11:03:41.323Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/mike/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="MIKE - Disco!" src="https://static.stereogum.com/uploads/2021/06/Mike-Disco-1624280797-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/mike/"> MIKE - Disco! </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-                  <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://mikelikesrap.bandcamp.com/album/disco" target="_blank">
-            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
-          		<span class="network_amazon">Bandcamp</span>
-          	</a> 
-          </div>
-        
-        
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ Kings Of Convenience - Peace Or Love 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/kings-of-convenience/</id>
-        <link href="https://www.stereogum.com/tag/kings-of-convenience/"/>
-        <updated>2021-07-07T11:03:41.326Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/kings-of-convenience/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Kings Of Convenience - Peace Or Love" src="https://static.stereogum.com/uploads/2021/06/kings-1624025815-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kings-of-convenience/"> Kings Of Convenience - Peace Or Love </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m" target="_blank">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
-        
-        
-        
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ KennyHoopla - SURVIVORS GUILT: THE MIXTAPE 
-		 (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/kennyhoopla/</id>
-        <link href="https://www.stereogum.com/tag/kennyhoopla/"/>
-        <updated>2021-07-07T11:03:41.331Z</updated>
-        <content type="html"><![CDATA[
-	<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/kennyhoopla/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="KennyHoopla - SURVIVORS GUILT: THE MIXTAPE" src="https://static.stereogum.com/uploads/2021/06/SURVIVORS-GUILT-1623803601-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kennyhoopla/"> KennyHoopla - SURVIVORS GUILT: THE MIXTAPE </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY" target="_blank">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
-        
-        
-        
-              </div>
-    	</div>
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amaro Freitas, “Sankofa” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Amaro Freitas, “Sankofa”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/amaro-freitas-sankofa-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/amaro-freitas-sankofa-review"/>
         <updated>2021-07-07T11:13:11.398Z</updated>
@@ -541,7 +29,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Various Artists, “Wallahi Le Zein!” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Various Artists, “Wallahi Le Zein!”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/various-artists-wallahi-le-zein-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/various-artists-wallahi-le-zein-review"/>
         <updated>2021-07-07T11:13:11.402Z</updated>
@@ -565,7 +53,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jason Nazary, “Spring Collection” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Jason Nazary, “Spring Collection”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/jason-nazary-spring-collection-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/jason-nazary-spring-collection-review"/>
         <updated>2021-07-07T11:13:11.403Z</updated>
@@ -589,7 +77,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MIKE, “Disco!” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[MIKE, “Disco!”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/mike-disco-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/mike-disco-review"/>
         <updated>2021-07-07T11:13:11.405Z</updated>
@@ -613,7 +101,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Backxwash, “I LIE HERE BURIED WITH MY RINGS AND MY DRESSES” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Backxwash, “I LIE HERE BURIED WITH MY RINGS AND MY DRESSES”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/backxwash-i-lie-here-buried-with-my-rings-and-my-dresses-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/backxwash-i-lie-here-buried-with-my-rings-and-my-dresses-review"/>
         <updated>2021-07-07T11:13:11.408Z</updated>
@@ -637,7 +125,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Prolaps, “Ultra Cycle Pt. 2: Estival Growth” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Prolaps, “Ultra Cycle Pt. 2: Estival Growth”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review"/>
         <updated>2021-07-07T11:13:11.413Z</updated>
@@ -661,7 +149,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SPELLLING, “The Turning Wheel” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[SPELLLING, “The Turning Wheel”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/spellling-the-turning-wheel</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/spellling-the-turning-wheel"/>
         <updated>2021-07-07T11:13:11.415Z</updated>
@@ -685,7 +173,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Janette King, “What We Lost” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Janette King, “What We Lost”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/janette-king-what-we-lost-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/janette-king-what-we-lost-review"/>
         <updated>2021-07-07T11:13:11.416Z</updated>
@@ -709,7 +197,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flowertown, “Flowertown” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Flowertown, “Flowertown”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/flowertown-self-titled-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/flowertown-self-titled-review"/>
         <updated>2021-07-07T11:13:11.416Z</updated>
@@ -733,7 +221,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Don Zilla, “Ekizikiza Mubwengula” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Don Zilla, “Ekizikiza Mubwengula”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/don-zilla-ekizikiza-mubwengula-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/don-zilla-ekizikiza-mubwengula-review"/>
         <updated>2021-07-07T11:13:11.417Z</updated>
@@ -757,7 +245,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[MJ Guider, “Temporary Requiem” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[MJ Guider, “Temporary Requiem”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/mj-guider-temporary-requiem-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/mj-guider-temporary-requiem-review"/>
         <updated>2021-07-07T11:13:11.418Z</updated>
@@ -781,7 +269,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Conclave, “Conclave” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Conclave, “Conclave”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/conclave-conclave-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/conclave-conclave-review"/>
         <updated>2021-07-07T11:13:11.419Z</updated>
@@ -805,7 +293,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Red Ribbon, “Planet X” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Red Ribbon, “Planet X”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/red-ribbon-planet-x-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/red-ribbon-planet-x-review"/>
         <updated>2021-07-07T11:13:11.419Z</updated>
@@ -829,7 +317,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Sávila, “MAYAHUEL” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Sávila, “MAYAHUEL”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/savila-mayahuel-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/savila-mayahuel-review"/>
         <updated>2021-07-07T11:13:11.420Z</updated>
@@ -853,7 +341,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Ìxtahuele, “Dharmaland” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Ìxtahuele, “Dharmaland”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/ixtahuele-dharmaland-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/ixtahuele-dharmaland-review"/>
         <updated>2021-07-07T11:13:11.421Z</updated>
@@ -877,7 +365,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[The Narcotix, “Mommy Issues” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[The Narcotix, “Mommy Issues”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/the-narcotix-mommy-issues-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/the-narcotix-mommy-issues-review"/>
         <updated>2021-07-07T11:13:11.426Z</updated>
@@ -901,7 +389,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Six Organs of Admittance, “The Veiled Sea” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Six Organs of Admittance, “The Veiled Sea”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/six-organs-of-admittance-the-veiled-sea-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/six-organs-of-admittance-the-veiled-sea-review"/>
         <updated>2021-07-07T11:13:11.428Z</updated>
@@ -925,7 +413,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Avon Terror Corps x Exist Festival, ”Resist To Exist قاوم لِوجودك” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Avon Terror Corps x Exist Festival, ”Resist To Exist قاوم لِوجودك”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/avon-terror-corps-x-exist-festival-resist-to-exist-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/avon-terror-corps-x-exist-festival-resist-to-exist-review"/>
         <updated>2021-07-07T11:13:11.429Z</updated>
@@ -949,7 +437,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Giant Drag, “Lemona” and “Swan Song” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Giant Drag, “Lemona” and “Swan Song”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/giant-drag-lemona-and-swan-song-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/giant-drag-lemona-and-swan-song-review"/>
         <updated>2021-07-07T11:13:11.437Z</updated>
@@ -973,7 +461,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Exum, “Xardinal Coffee” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Exum, “Xardinal Coffee”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/exum-xardinal-coffee-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/exum-xardinal-coffee-review"/>
         <updated>2021-07-07T11:13:11.454Z</updated>
@@ -997,7 +485,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[N0V3L, “NON-FICTION” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[N0V3L, “NON-FICTION”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/n0v3l-non-fiction-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/n0v3l-non-fiction-review"/>
         <updated>2021-07-07T11:13:11.454Z</updated>
@@ -1021,7 +509,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Miriam Makeba, “Keep Me in Mind” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Miriam Makeba, “Keep Me in Mind”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/miriam-makeba-keep-me-in-mind-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/miriam-makeba-keep-me-in-mind-review"/>
         <updated>2021-07-07T11:13:11.454Z</updated>
@@ -1045,7 +533,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Children of Zeus, “Balance” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Children of Zeus, “Balance”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/children-of-zeus-balance-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/children-of-zeus-balance-review"/>
         <updated>2021-07-07T11:13:11.454Z</updated>
@@ -1069,7 +557,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[W00DY, “Headbanging In The Club” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[W00DY, “Headbanging In The Club”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/w00dy-headbanging-in-the-club-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/w00dy-headbanging-in-the-club-review"/>
         <updated>2021-07-07T11:13:11.470Z</updated>
@@ -1093,7 +581,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[UV-TV, “Always Something” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[UV-TV, “Always Something”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/uv-tv-always-something-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/uv-tv-always-something-review"/>
         <updated>2021-07-07T11:13:11.470Z</updated>
@@ -1117,7 +605,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Various Artists, “Modern Love” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Various Artists, “Modern Love”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/various-artists-modern-love-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/various-artists-modern-love-review"/>
         <updated>2021-07-07T11:13:11.470Z</updated>
@@ -1141,7 +629,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Spectacular Diagnostics, “Natural Mechanics” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Spectacular Diagnostics, “Natural Mechanics”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/spectacular-diagnostics-natural-mechanics-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/spectacular-diagnostics-natural-mechanics-review"/>
         <updated>2021-07-07T11:13:11.470Z</updated>
@@ -1165,7 +653,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Allison Russell, “Outside Child” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Allison Russell, “Outside Child”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/allison-russell-outside-child-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/allison-russell-outside-child-review"/>
         <updated>2021-07-07T11:13:11.470Z</updated>
@@ -1189,7 +677,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Pickle Darling, “Cosmonaut” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[Pickle Darling, “Cosmonaut”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/pickle-darling-cosmonaut-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/pickle-darling-cosmonaut-review"/>
         <updated>2021-07-07T11:13:11.472Z</updated>
@@ -1213,7 +701,7 @@
     ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[FACS, “Present Tense” (Bandcamp: Album of the Day)]]></title>
+        <title type="html"><![CDATA[FACS, “Present Tense”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/facs-present-tense-review</id>
         <link href="https://daily.bandcamp.com/album-of-the-day/facs-present-tense-review"/>
         <updated>2021-07-07T11:13:11.472Z</updated>
