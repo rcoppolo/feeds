@@ -4,3 +4,10 @@ url = "https://www.stereogum.com/heavy-rotation/"
 entrySelector = ".article-card__heavy-rotation"
 titleSelector = ".article-card__title"
 linkSelector = ".article-card__title a"
+
+[album_of_the_day]
+title = "Bandcamp: Album of the Day"
+url = "https://daily.bandcamp.com/album-of-the-day"
+entrySelector = "articles-list .aotd"
+titleSelector = ".title-wrapper"
+linkSelector = ".title-wrapper a"
