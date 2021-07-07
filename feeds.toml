@@ -1,6 +1,0 @@
-[heavy_rotation]
-title = "Stereogum: Heavy Rotation"
-url = "https://www.stereogum.com/heavy-rotation/"
-entrySelector = ".article-card__heavy-rotation"
-titleSelector = ".article-card__title"
-linkSelector = ".article-card__title a"
