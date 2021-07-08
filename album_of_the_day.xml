@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-07-08T05:32:07.027Z</updated>
+    <updated>2021-07-08T17:47:34.209Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Dolphin Midwives, “Body of Water”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/dolphin-midwives-body-of-water-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/dolphin-midwives-body-of-water-review"/>
+        <updated>2021-07-08T17:46:43.987Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/dolphin-midwives-body-of-water-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025437497_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 08, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/dolphin-midwives-body-of-water-review">Dolphin Midwives, “Body of Water”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Les Filles de Illighadad, “At Pioneer Works”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/les-filles-de-illighadad-at-pioneer-works-review</id>
@@ -642,27 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/allison-russell-outside-child-review">Allison Russell, “Outside Child”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pickle Darling, “Cosmonaut”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/pickle-darling-cosmonaut-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/pickle-darling-cosmonaut-review"/>
-        <updated>2021-07-07T11:13:11.472Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/pickle-darling-cosmonaut-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0024952441_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                May 25, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/pickle-darling-cosmonaut-review">Pickle Darling, “Cosmonaut”</a></div>]]></content>
     </entry>
 </feed>

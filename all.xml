@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rcoppolo.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-08T05:32:07.031Z</updated>
+    <updated>2021-07-08T17:47:34.214Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[The Goon Sax - Mirror II (Stereogum: Heavy Rotation)]]></title>
@@ -10,14 +10,14 @@
         <link href="https://www.stereogum.com/tag/the-goon-sax/"/>
         <updated>2021-07-07T11:03:41.290Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/the-goon-sax/">
+		<a href="https://www.stereogum.com/tag/the-goon-sax/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="The Goon Sax - Mirror II" src="https://static.stereogum.com/uploads/2021/07/cover-The-Goon-Sax-Mirror-II-1625626971-330x330.jpg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/the-goon-sax/"> The Goon Sax - Mirror II </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/the-goon-sax/" sl-processed="1"> The Goon Sax - Mirror II </a>
 		</p>
 					<div class="article-card__social-network">
                 
@@ -25,7 +25,7 @@
         
         
                   <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.jdoqocy.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fthe-goon-sax%2Fmirror-ii" target="_blank">
+            <a class="button button-rough-trade" href="https://www.jdoqocy.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fthe-goon-sax%2Fmirror-ii" target="_blank" sl-processed="1">
               <span class="icon-vinyl"></span>
               <span class="network_amazon">Rough Trade</span>
             </a>
@@ -39,20 +39,20 @@
         <link href="https://www.stereogum.com/tag/izzy-true/"/>
         <updated>2021-07-07T11:03:41.305Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/izzy-true/">
+		<a href="https://www.stereogum.com/tag/izzy-true/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Izzy True - Our Beautiful Baby World" src="https://static.stereogum.com/uploads/2021/06/Izzy-True-Our-Beautiful-Baby-World-1625068022-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/izzy-true/"> Izzy True - Our Beautiful Baby World </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/izzy-true/" sl-processed="1"> Izzy True - Our Beautiful Baby World </a>
 		</p>
 					<div class="article-card__social-network">
                 
         
                   <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://izzytrue.bandcamp.com/album/our-beautiful-baby-world" target="_blank">
+            <a class="button button-bandcamp" href="https://izzytrue.bandcamp.com/album/our-beautiful-baby-world" target="_blank" sl-processed="1">
             	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
           		<span class="network_amazon">Bandcamp</span>
           	</a> 
@@ -68,18 +68,18 @@
         <link href="https://www.stereogum.com/tag/tyler-the-creator/"/>
         <updated>2021-07-07T11:03:41.306Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/tyler-the-creator/">
+		<a href="https://www.stereogum.com/tag/tyler-the-creator/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Tyler, The Creator - Call Me If You Get Lost" src="https://static.stereogum.com/uploads/2021/06/Call-Me-If-You-Get-Lost-1624669801-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/tyler-the-creator/"> Tyler, The Creator - Call Me If You Get Lost </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/tyler-the-creator/" sl-processed="1"> Tyler, The Creator - Call Me If You Get Lost </a>
 		</p>
 					<div class="article-card__social-network">
                   <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9" target="_blank">
+            <a class="button button-spotify" href="https://open.spotify.com/album/45ba6QAtNrdv6Ke4MFOKk9" target="_blank" sl-processed="1">
             	<span class="icon-spotify"></span>
               <span class="network_spotify">Spotify</span>
             </a>
@@ -97,18 +97,18 @@
         <link href="https://www.stereogum.com/tag/doja-cat/"/>
         <updated>2021-07-07T11:03:41.306Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/doja-cat/">
+		<a href="https://www.stereogum.com/tag/doja-cat/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Doja Cat - Planet Her" src="https://static.stereogum.com/uploads/2021/06/doja-cat-planet-her-1624634596-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/doja-cat/"> Doja Cat - Planet Her </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/doja-cat/" sl-processed="1"> Doja Cat - Planet Her </a>
 		</p>
 					<div class="article-card__social-network">
                   <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW" target="_blank">
+            <a class="button button-spotify" href="https://open.spotify.com/album/1nAQbHeOWTfQzbOoFrvndW" target="_blank" sl-processed="1">
             	<span class="icon-spotify"></span>
               <span class="network_spotify">Spotify</span>
             </a>
@@ -126,14 +126,14 @@
         <link href="https://www.stereogum.com/tag/pom-pom-squad/"/>
         <updated>2021-07-07T11:03:41.307Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/pom-pom-squad/">
+		<a href="https://www.stereogum.com/tag/pom-pom-squad/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Pom Pom Squad - Death Of A Cheerleader" src="https://static.stereogum.com/uploads/2021/06/Death-Of-A-Cheerleader-1624634472-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/pom-pom-squad/"> Pom Pom Squad - Death Of A Cheerleader </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/pom-pom-squad/" sl-processed="1"> Pom Pom Squad - Death Of A Cheerleader </a>
 		</p>
 					<div class="article-card__social-network">
                 
@@ -141,7 +141,7 @@
         
         
                   <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.roughtrade.com/us/pom-pom-squad/death-of-a-cheerleader" target="_blank">
+            <a class="button button-rough-trade" href="https://www.roughtrade.com/us/pom-pom-squad/death-of-a-cheerleader" target="_blank" sl-processed="1">
               <span class="icon-vinyl"></span>
               <span class="network_amazon">Rough Trade</span>
             </a>
@@ -155,14 +155,14 @@
         <link href="https://www.stereogum.com/tag/faye-webster/"/>
         <updated>2021-07-07T11:03:41.308Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/faye-webster/">
+		<a href="https://www.stereogum.com/tag/faye-webster/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Faye Webster - I Know I’m Funny haha" src="https://static.stereogum.com/uploads/2021/06/i-know-im-funny-haha-1624634236-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/faye-webster/"> Faye Webster - I Know I’m Funny haha </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/faye-webster/" sl-processed="1"> Faye Webster - I Know I’m Funny haha </a>
 		</p>
 					<div class="article-card__social-network">
                 
@@ -170,7 +170,7 @@
         
         
                   <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.roughtrade.com/us/faye-webster/i-know-i-m-funny-haha" target="_blank">
+            <a class="button button-rough-trade" href="https://www.roughtrade.com/us/faye-webster/i-know-i-m-funny-haha" target="_blank" sl-processed="1">
               <span class="icon-vinyl"></span>
               <span class="network_amazon">Rough Trade</span>
             </a>
@@ -184,14 +184,14 @@
         <link href="https://www.stereogum.com/tag/spellling/"/>
         <updated>2021-07-07T11:03:41.308Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/spellling/">
+		<a href="https://www.stereogum.com/tag/spellling/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Spellling - The Turning Wheel" src="https://static.stereogum.com/uploads/2021/06/spellling-1624634137-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/spellling/"> Spellling - The Turning Wheel </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/spellling/" sl-processed="1"> Spellling - The Turning Wheel </a>
 		</p>
 					<div class="article-card__social-network">
                 
@@ -199,7 +199,7 @@
         
         
                   <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.roughtrade.com/us/spellling/the-turning-wheel" target="_blank">
+            <a class="button button-rough-trade" href="https://www.roughtrade.com/us/spellling/the-turning-wheel" target="_blank" sl-processed="1">
               <span class="icon-vinyl"></span>
               <span class="network_amazon">Rough Trade</span>
             </a>
@@ -213,20 +213,20 @@
         <link href="https://www.stereogum.com/tag/drug-church/"/>
         <updated>2021-07-07T11:03:41.309Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/drug-church/">
+		<a href="https://www.stereogum.com/tag/drug-church/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Drug Church - Tawny EP" src="https://static.stereogum.com/uploads/2021/06/drug-church-1624634067-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/drug-church/"> Drug Church - Tawny EP </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/drug-church/" sl-processed="1"> Drug Church - Tawny EP </a>
 		</p>
 					<div class="article-card__social-network">
                 
         
                   <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://drugchurch.bandcamp.com/album/tawny" target="_blank">
+            <a class="button button-bandcamp" href="https://drugchurch.bandcamp.com/album/tawny" target="_blank" sl-processed="1">
             	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
           		<span class="network_amazon">Bandcamp</span>
           	</a> 
@@ -242,14 +242,14 @@
         <link href="https://www.stereogum.com/tag/lightning-bug/"/>
         <updated>2021-07-07T11:03:41.309Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/lightning-bug/">
+		<a href="https://www.stereogum.com/tag/lightning-bug/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Lighting Bug - A Color Of The Sky" src="https://static.stereogum.com/uploads/2021/06/A-Color-Of-The-Sky-1624629140-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/lightning-bug/"> Lighting Bug - A Color Of The Sky </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/lightning-bug/" sl-processed="1"> Lighting Bug - A Color Of The Sky </a>
 		</p>
 					<div class="article-card__social-network">
                 
@@ -257,7 +257,7 @@
         
         
                   <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Flightning-bug%2Fa-color-of-the-sky" target="_blank">
+            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Flightning-bug%2Fa-color-of-the-sky" target="_blank" sl-processed="1">
               <span class="icon-vinyl"></span>
               <span class="network_amazon">Rough Trade</span>
             </a>
@@ -271,20 +271,20 @@
         <link href="https://www.stereogum.com/tag/sault/"/>
         <updated>2021-07-07T11:03:41.310Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/sault/">
+		<a href="https://www.stereogum.com/tag/sault/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="SAULT - NINE" src="https://static.stereogum.com/uploads/2021/06/a2352533554_10-1624578472-330x330.jpg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/sault/"> SAULT - NINE </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/sault/" sl-processed="1"> SAULT - NINE </a>
 		</p>
 					<div class="article-card__social-network">
                 
         
                   <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://saultglobal.bandcamp.com/album/nine" target="_blank">
+            <a class="button button-bandcamp" href="https://saultglobal.bandcamp.com/album/nine" target="_blank" sl-processed="1">
             	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
           		<span class="network_amazon">Bandcamp</span>
           	</a> 
@@ -300,14 +300,14 @@
         <link href="https://www.stereogum.com/tag/2nd-grade/"/>
         <updated>2021-07-07T11:03:41.317Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/2nd-grade/">
+		<a href="https://www.stereogum.com/tag/2nd-grade/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="2nd Grade - Wish You Were Here Tour Revisited" src="https://static.stereogum.com/uploads/2021/06/640192-1624478442-330x330.jpg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/2nd-grade/"> 2nd Grade - Wish You Were Here Tour Revisited </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/2nd-grade/" sl-processed="1"> 2nd Grade - Wish You Were Here Tour Revisited </a>
 		</p>
 					<div class="article-card__social-network">
                 
@@ -315,7 +315,7 @@
         
         
                   <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2F2nd-grade%2Fwish-you-were-here-tour-revisited" target="_blank">
+            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2F2nd-grade%2Fwish-you-were-here-tour-revisited" target="_blank" sl-processed="1">
               <span class="icon-vinyl"></span>
               <span class="network_amazon">Rough Trade</span>
             </a>
@@ -329,14 +329,14 @@
         <link href="https://www.stereogum.com/tag/squirrel-flower/"/>
         <updated>2021-07-07T11:03:41.320Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/squirrel-flower/">
+		<a href="https://www.stereogum.com/tag/squirrel-flower/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Squirrel Flower - Planet (i)" src="https://static.stereogum.com/uploads/2021/06/PRC-435_HiRes-1624377999-330x330.jpg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/squirrel-flower/"> Squirrel Flower - Planet (i) </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/squirrel-flower/" sl-processed="1"> Squirrel Flower - Planet (i) </a>
 		</p>
 					<div class="article-card__social-network">
                 
@@ -344,7 +344,7 @@
         
         
                   <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fsquirrel-flower%2Fplanet-i%2Flp-plus" target="_blank">
+            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fsquirrel-flower%2Fplanet-i%2Flp-plus" target="_blank" sl-processed="1">
               <span class="icon-vinyl"></span>
               <span class="network_amazon">Rough Trade</span>
             </a>
@@ -358,14 +358,14 @@
         <link href="https://www.stereogum.com/tag/lucy-dacus/"/>
         <updated>2021-07-07T11:03:41.321Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/lucy-dacus/">
+		<a href="https://www.stereogum.com/tag/lucy-dacus/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Lucy Dacus - Home Video" src="https://static.stereogum.com/uploads/2021/06/lucy-dacus-home-video-1624366613-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/lucy-dacus/"> Lucy Dacus - Home Video </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/lucy-dacus/" sl-processed="1"> Lucy Dacus - Home Video </a>
 		</p>
 					<div class="article-card__social-network">
                 
@@ -373,7 +373,7 @@
         
         
                   <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Flucy-dacus%2Fhome-video" target="_blank">
+            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Flucy-dacus%2Fhome-video" target="_blank" sl-processed="1">
               <span class="icon-vinyl"></span>
               <span class="network_amazon">Rough Trade</span>
             </a>
@@ -387,20 +387,20 @@
         <link href="https://www.stereogum.com/tag/mike/"/>
         <updated>2021-07-07T11:03:41.323Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/mike/">
+		<a href="https://www.stereogum.com/tag/mike/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="MIKE - Disco!" src="https://static.stereogum.com/uploads/2021/06/Mike-Disco-1624280797-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/mike/"> MIKE - Disco! </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/mike/" sl-processed="1"> MIKE - Disco! </a>
 		</p>
 					<div class="article-card__social-network">
                 
         
                   <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://mikelikesrap.bandcamp.com/album/disco" target="_blank">
+            <a class="button button-bandcamp" href="https://mikelikesrap.bandcamp.com/album/disco" target="_blank" sl-processed="1">
             	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
           		<span class="network_amazon">Bandcamp</span>
           	</a> 
@@ -416,18 +416,18 @@
         <link href="https://www.stereogum.com/tag/kings-of-convenience/"/>
         <updated>2021-07-07T11:03:41.326Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/kings-of-convenience/">
+		<a href="https://www.stereogum.com/tag/kings-of-convenience/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="Kings Of Convenience - Peace Or Love" src="https://static.stereogum.com/uploads/2021/06/kings-1624025815-330x330.jpg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kings-of-convenience/"> Kings Of Convenience - Peace Or Love </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kings-of-convenience/" sl-processed="1"> Kings Of Convenience - Peace Or Love </a>
 		</p>
 					<div class="article-card__social-network">
                   <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m" target="_blank">
+            <a class="button button-spotify" href="https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m" target="_blank" sl-processed="1">
             	<span class="icon-spotify"></span>
               <span class="network_spotify">Spotify</span>
             </a>
@@ -445,18 +445,18 @@
         <link href="https://www.stereogum.com/tag/kennyhoopla/"/>
         <updated>2021-07-07T11:03:41.331Z</updated>
         <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/kennyhoopla/">
+		<a href="https://www.stereogum.com/tag/kennyhoopla/" sl-processed="1">
       <div class="article-card__image intrinsic">
                   <img class="intrinsic__item" title="KennyHoopla - SURVIVORS GUILT: THE MIXTAPE" src="https://static.stereogum.com/uploads/2021/06/SURVIVORS-GUILT-1623803601-330x330.jpeg">
               </div>
   	</a>
 	</div>
 	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kennyhoopla/"> KennyHoopla - SURVIVORS GUILT: THE MIXTAPE </a>
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kennyhoopla/" sl-processed="1"> KennyHoopla - SURVIVORS GUILT: THE MIXTAPE </a>
 		</p>
 					<div class="article-card__social-network">
                   <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY" target="_blank">
+            <a class="button button-spotify" href="https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY" target="_blank" sl-processed="1">
             	<span class="icon-spotify"></span>
               <span class="network_spotify">Spotify</span>
             </a>
@@ -467,6 +467,28 @@
         
               </div>
     	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Dolphin Midwives, “Body of Water” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/dolphin-midwives-body-of-water-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/dolphin-midwives-body-of-water-review"/>
+        <updated>2021-07-08T17:46:43.987Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/dolphin-midwives-body-of-water-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025437497_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 08, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/dolphin-midwives-body-of-water-review">Dolphin Midwives, “Body of Water”</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Les Filles de Illighadad, “At Pioneer Works” (Bandcamp: Album of the Day)]]></title>
@@ -1105,27 +1127,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/allison-russell-outside-child-review">Allison Russell, “Outside Child”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pickle Darling, “Cosmonaut” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/pickle-darling-cosmonaut-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/pickle-darling-cosmonaut-review"/>
-        <updated>2021-07-07T11:13:11.472Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/pickle-darling-cosmonaut-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0024952441_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                May 25, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/pickle-darling-cosmonaut-review">Pickle Darling, “Cosmonaut”</a></div>]]></content>
     </entry>
 </feed>
