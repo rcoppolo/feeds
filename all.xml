@@ -2,8 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rcoppolo.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-09T05:32:22.701Z</updated>
+    <updated>2021-07-10T05:32:39.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Charlotte Day Wilson - ALPHA (Stereogum: Heavy Rotation)]]></title>
+        <id>https://www.stereogum.com/tag/charlotte-day-wilson/</id>
+        <link href="https://www.stereogum.com/tag/charlotte-day-wilson/"/>
+        <updated>2021-07-10T05:32:39.154Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/charlotte-day-wilson/" sl-processed="1">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Charlotte Day Wilson - ALPHA" src="https://static.stereogum.com/uploads/2021/07/unnamed-2021-07-09T115931.655-1625846424-330x330.jpg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/charlotte-day-wilson/" sl-processed="1"> Charlotte Day Wilson - ALPHA </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+                  <div class="item-social-network">
+            <a class="button button-bandcamp" href="https://charlottedaywilson.bandcamp.com/" target="_blank" sl-processed="1">
+            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
+          		<span class="network_amazon">Bandcamp</span>
+          	</a> 
+          </div>
+        
+        
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Goon Sax - Mirror II (Stereogum: Heavy Rotation)]]></title>
         <id>https://www.stereogum.com/tag/the-goon-sax/</id>
@@ -440,33 +469,26 @@
     	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KennyHoopla - SURVIVORS GUILT: THE MIXTAPE (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/kennyhoopla/</id>
-        <link href="https://www.stereogum.com/tag/kennyhoopla/"/>
-        <updated>2021-07-07T11:03:41.331Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/kennyhoopla/" sl-processed="1">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="KennyHoopla - SURVIVORS GUILT: THE MIXTAPE" src="https://static.stereogum.com/uploads/2021/06/SURVIVORS-GUILT-1623803601-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kennyhoopla/" sl-processed="1"> KennyHoopla - SURVIVORS GUILT: THE MIXTAPE </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY" target="_blank" sl-processed="1">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
+        <title type="html"><![CDATA[Deep Aztec, “Healing Frequencies” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/deep-aztec-healing-frequencies-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/deep-aztec-healing-frequencies-review"/>
+        <updated>2021-07-10T05:31:51.185Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/deep-aztec-healing-frequencies-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025440505_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
         
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 09, 2021
+            </div>
         
-        
-              </div>
-    	</div>]]></content>
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/deep-aztec-healing-frequencies-review">Deep Aztec, “Healing Frequencies”</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Dolphin Midwives, “Body of Water” (Bandcamp: Album of the Day)]]></title>
@@ -1105,27 +1127,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/spectacular-diagnostics-natural-mechanics-review">Spectacular Diagnostics, “Natural Mechanics”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Allison Russell, “Outside Child” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/allison-russell-outside-child-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/allison-russell-outside-child-review"/>
-        <updated>2021-07-07T11:13:11.470Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/allison-russell-outside-child-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025002294_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                May 26, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/allison-russell-outside-child-review">Allison Russell, “Outside Child”</a></div>]]></content>
     </entry>
 </feed>

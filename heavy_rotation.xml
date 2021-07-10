@@ -2,9 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stereogum.com/heavy-rotation/</id>
     <title>Stereogum: Heavy Rotation</title>
-    <updated>2021-07-09T05:32:22.697Z</updated>
+    <updated>2021-07-10T05:32:39.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stereogum.com/wp-content/themes/stereogum-ws/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Charlotte Day Wilson - ALPHA]]></title>
+        <id>https://www.stereogum.com/tag/charlotte-day-wilson/</id>
+        <link href="https://www.stereogum.com/tag/charlotte-day-wilson/"/>
+        <updated>2021-07-10T05:32:39.154Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/charlotte-day-wilson/" sl-processed="1">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Charlotte Day Wilson - ALPHA" src="https://static.stereogum.com/uploads/2021/07/unnamed-2021-07-09T115931.655-1625846424-330x330.jpg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/charlotte-day-wilson/" sl-processed="1"> Charlotte Day Wilson - ALPHA </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+                  <div class="item-social-network">
+            <a class="button button-bandcamp" href="https://charlottedaywilson.bandcamp.com/" target="_blank" sl-processed="1">
+            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
+          		<span class="network_amazon">Bandcamp</span>
+          	</a> 
+          </div>
+        
+        
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[The Goon Sax - Mirror II]]></title>
         <id>https://www.stereogum.com/tag/the-goon-sax/</id>
@@ -429,35 +458,6 @@
 					<div class="article-card__social-network">
                   <div class="item-social-network">
             <a class="button button-spotify" href="https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m" target="_blank" sl-processed="1">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
-        
-        
-        
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KennyHoopla - SURVIVORS GUILT: THE MIXTAPE]]></title>
-        <id>https://www.stereogum.com/tag/kennyhoopla/</id>
-        <link href="https://www.stereogum.com/tag/kennyhoopla/"/>
-        <updated>2021-07-07T11:03:41.331Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/kennyhoopla/" sl-processed="1">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="KennyHoopla - SURVIVORS GUILT: THE MIXTAPE" src="https://static.stereogum.com/uploads/2021/06/SURVIVORS-GUILT-1623803601-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kennyhoopla/" sl-processed="1"> KennyHoopla - SURVIVORS GUILT: THE MIXTAPE </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/2NHwRObEyab5p4DA6tScNY" target="_blank" sl-processed="1">
             	<span class="icon-spotify"></span>
               <span class="network_spotify">Spotify</span>
             </a>
