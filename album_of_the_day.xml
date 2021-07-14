@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-07-14T05:33:04.875Z</updated>
+    <updated>2021-07-14T17:40:54.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Rey Sapienz and the Congo Techno Ensemble, “Na Zala Zala”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/rey-sapienz-and-the-congo-techno-ensemble-na-zala-zala-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/rey-sapienz-and-the-congo-techno-ensemble-na-zala-zala-review"/>
+        <updated>2021-07-14T17:40:22.163Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/rey-sapienz-and-the-congo-techno-ensemble-na-zala-zala-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025450777_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 14, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/rey-sapienz-and-the-congo-techno-ensemble-na-zala-zala-review">Rey Sapienz and the Congo Techno Ensemble, “Na Zala Zala”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Foodman, “Yasuragi Land”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/foodman-yasuragi-land-review</id>
@@ -642,27 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/w00dy-headbanging-in-the-club-review">W00DY, “Headbanging In The Club”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UV-TV, “Always Something”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/uv-tv-always-something-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/uv-tv-always-something-review"/>
-        <updated>2021-07-07T11:13:11.470Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/uv-tv-always-something-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025026365_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 01, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/uv-tv-always-something-review">UV-TV, “Always Something”</a></div>]]></content>
     </entry>
 </feed>
