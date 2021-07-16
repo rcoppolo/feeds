@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-07-16T05:32:28.863Z</updated>
+    <updated>2021-07-16T17:42:08.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Midwife, “Luminol”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/midwife-luminol-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/midwife-luminol-review"/>
+        <updated>2021-07-16T17:41:23.188Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/midwife-luminol-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025495305_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 16, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/midwife-luminol-review">Midwife, “Luminol”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jason Jamal, “Sweet”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/jason-jamal-sweet-review</id>
@@ -642,27 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/miriam-makeba-keep-me-in-mind-review">Miriam Makeba, “Keep Me in Mind”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Children of Zeus, “Balance”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/children-of-zeus-balance-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/children-of-zeus-balance-review"/>
-        <updated>2021-07-07T11:13:11.454Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/children-of-zeus-balance-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025087213_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 03, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/children-of-zeus-balance-review">Children of Zeus, “Balance”</a></div>]]></content>
     </entry>
 </feed>
