@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-07-15T05:32:45.359Z</updated>
+    <updated>2021-07-16T05:32:28.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Jason Jamal, “Sweet”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/jason-jamal-sweet-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/jason-jamal-sweet-review"/>
+        <updated>2021-07-16T05:31:53.121Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/jason-jamal-sweet-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025503789_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 15, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/jason-jamal-sweet-review">Jason Jamal, “Sweet”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Rey Sapienz and the Congo Techno Ensemble, “Na Zala Zala”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/rey-sapienz-and-the-congo-techno-ensemble-na-zala-zala-review</id>
@@ -642,27 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/children-of-zeus-balance-review">Children of Zeus, “Balance”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W00DY, “Headbanging In The Club”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/w00dy-headbanging-in-the-club-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/w00dy-headbanging-in-the-club-review"/>
-        <updated>2021-07-07T11:13:11.470Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/w00dy-headbanging-in-the-club-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025039232_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 02, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/w00dy-headbanging-in-the-club-review">W00DY, “Headbanging In The Club”</a></div>]]></content>
     </entry>
 </feed>

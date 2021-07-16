@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stereogum.com/heavy-rotation/</id>
     <title>Stereogum: Heavy Rotation</title>
-    <updated>2021-07-15T05:32:45.356Z</updated>
+    <updated>2021-07-16T05:32:28.859Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stereogum.com/wp-content/themes/stereogum-ws/favicon.png</icon>
     <entry>
@@ -31,6 +31,35 @@
           </div>
         
         
+              </div>
+    	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jodi - Blue Heron]]></title>
+        <id>https://www.stereogum.com/tag/jodi/</id>
+        <link href="https://www.stereogum.com/tag/jodi/"/>
+        <updated>2021-07-16T05:32:28.693Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/jodi/" sl-processed="1">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Jodi - Blue Heron" src="https://static.stereogum.com/uploads/2021/07/unnamed-2021-07-08T171310.571-1625778799-330x330.jpg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/jodi/" sl-processed="1"> Jodi - Blue Heron </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fjodi%2Fblue-heron" target="_blank" sl-processed="1">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
               </div>
     	</div>]]></content>
     </entry>
@@ -435,35 +464,6 @@
           		<span class="network_amazon">Bandcamp</span>
           	</a> 
           </div>
-        
-        
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kings Of Convenience - Peace Or Love]]></title>
-        <id>https://www.stereogum.com/tag/kings-of-convenience/</id>
-        <link href="https://www.stereogum.com/tag/kings-of-convenience/"/>
-        <updated>2021-07-07T11:03:41.326Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/kings-of-convenience/" sl-processed="1">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Kings Of Convenience - Peace Or Love" src="https://static.stereogum.com/uploads/2021/06/kings-1624025815-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kings-of-convenience/" sl-processed="1"> Kings Of Convenience - Peace Or Love </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m" target="_blank" sl-processed="1">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
-        
         
         
               </div>

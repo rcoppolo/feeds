@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rcoppolo.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-15T05:32:45.371Z</updated>
+    <updated>2021-07-16T05:32:29.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Charlotte Day Wilson - ALPHA (Stereogum: Heavy Rotation)]]></title>
@@ -30,6 +30,35 @@
           </div>
         
         
+              </div>
+    	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jodi - Blue Heron (Stereogum: Heavy Rotation)]]></title>
+        <id>https://www.stereogum.com/tag/jodi/</id>
+        <link href="https://www.stereogum.com/tag/jodi/"/>
+        <updated>2021-07-16T05:32:28.693Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/jodi/" sl-processed="1">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Jodi - Blue Heron" src="https://static.stereogum.com/uploads/2021/07/unnamed-2021-07-08T171310.571-1625778799-330x330.jpg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/jodi/" sl-processed="1"> Jodi - Blue Heron </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fjodi%2Fblue-heron" target="_blank" sl-processed="1">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
               </div>
     	</div>]]></content>
     </entry>
@@ -440,33 +469,26 @@
     	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Kings Of Convenience - Peace Or Love (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/kings-of-convenience/</id>
-        <link href="https://www.stereogum.com/tag/kings-of-convenience/"/>
-        <updated>2021-07-07T11:03:41.326Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/kings-of-convenience/" sl-processed="1">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Kings Of Convenience - Peace Or Love" src="https://static.stereogum.com/uploads/2021/06/kings-1624025815-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/kings-of-convenience/" sl-processed="1"> Kings Of Convenience - Peace Or Love </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/1I8t93pjEtNM1vbtoUII0m" target="_blank" sl-processed="1">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
+        <title type="html"><![CDATA[Jason Jamal, “Sweet” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/jason-jamal-sweet-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/jason-jamal-sweet-review"/>
+        <updated>2021-07-16T05:31:53.121Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/jason-jamal-sweet-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025503789_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
         
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 15, 2021
+            </div>
         
-        
-              </div>
-    	</div>]]></content>
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/jason-jamal-sweet-review">Jason Jamal, “Sweet”</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Rey Sapienz and the Congo Techno Ensemble, “Na Zala Zala” (Bandcamp: Album of the Day)]]></title>
@@ -1105,27 +1127,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/children-of-zeus-balance-review">Children of Zeus, “Balance”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[W00DY, “Headbanging In The Club” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/w00dy-headbanging-in-the-club-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/w00dy-headbanging-in-the-club-review"/>
-        <updated>2021-07-07T11:13:11.470Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/w00dy-headbanging-in-the-club-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025039232_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 02, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/w00dy-headbanging-in-the-club-review">W00DY, “Headbanging In The Club”</a></div>]]></content>
     </entry>
 </feed>
