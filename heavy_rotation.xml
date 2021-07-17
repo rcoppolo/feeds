@@ -2,9 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stereogum.com/heavy-rotation/</id>
     <title>Stereogum: Heavy Rotation</title>
-    <updated>2021-07-16T17:42:08.702Z</updated>
+    <updated>2021-07-17T05:33:03.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stereogum.com/wp-content/themes/stereogum-ws/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Clairo - Sling]]></title>
+        <id>https://www.stereogum.com/tag/clairo/</id>
+        <link href="https://www.stereogum.com/tag/clairo/"/>
+        <updated>2021-07-17T05:33:03.489Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/clairo/" sl-processed="1">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Clairo - Sling" src="https://static.stereogum.com/uploads/2021/07/Clairo-Sling-1626321991-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/clairo/" sl-processed="1"> Clairo - Sling </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.tkqlhce.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fclairo%2Fsling%2Flp-plus" target="_blank" sl-processed="1">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Charlotte Day Wilson - ALPHA]]></title>
         <id>https://www.stereogum.com/tag/charlotte-day-wilson/</id>
@@ -437,35 +466,6 @@
               <span class="network_amazon">Rough Trade</span>
             </a>
           </div>
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIKE - Disco!]]></title>
-        <id>https://www.stereogum.com/tag/mike/</id>
-        <link href="https://www.stereogum.com/tag/mike/"/>
-        <updated>2021-07-07T11:03:41.323Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/mike/" sl-processed="1">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="MIKE - Disco!" src="https://static.stereogum.com/uploads/2021/06/Mike-Disco-1624280797-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/mike/" sl-processed="1"> MIKE - Disco! </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-                  <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://mikelikesrap.bandcamp.com/album/disco" target="_blank" sl-processed="1">
-            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
-          		<span class="network_amazon">Bandcamp</span>
-          	</a> 
-          </div>
-        
-        
               </div>
     	</div>]]></content>
     </entry>
