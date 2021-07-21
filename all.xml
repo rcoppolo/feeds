@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rcoppolo.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-21T05:32:10.447Z</updated>
+    <updated>2021-07-21T17:41:53.304Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Anika - Change (Stereogum: Heavy Rotation)]]></title>
@@ -467,6 +467,28 @@
           </div>
               </div>
     	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Jalang, “Santau” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/jalang-santau-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/jalang-santau-review"/>
+        <updated>2021-07-21T17:41:51.770Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/jalang-santau-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025516835_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 21, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/jalang-santau-review">Jalang, “Santau”</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Jack Cooper & Jeff Tobias, “Tributaries” (Bandcamp: Album of the Day)]]></title>
@@ -1105,27 +1127,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/giant-drag-lemona-and-swan-song-review">Giant Drag, “Lemona” and “Swan Song”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Exum, “Xardinal Coffee” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/exum-xardinal-coffee-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/exum-xardinal-coffee-review"/>
-        <updated>2021-07-07T11:13:11.454Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/exum-xardinal-coffee-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025140311_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 08, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/exum-xardinal-coffee-review">Exum, “Xardinal Coffee”</a></div>]]></content>
     </entry>
 </feed>
