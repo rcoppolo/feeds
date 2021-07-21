@@ -2,9 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stereogum.com/heavy-rotation/</id>
     <title>Stereogum: Heavy Rotation</title>
-    <updated>2021-07-19T17:41:01.320Z</updated>
+    <updated>2021-07-21T05:32:10.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stereogum.com/wp-content/themes/stereogum-ws/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Anika - Change]]></title>
+        <id>https://www.stereogum.com/tag/anika/</id>
+        <link href="https://www.stereogum.com/tag/anika/"/>
+        <updated>2021-07-21T05:32:10.241Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/anika/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Anika - Change" src="https://static.stereogum.com/uploads/2021/07/anika-change-1626279442-870x8701-1626793688-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/anika/"> Anika - Change </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fanika%2Fchange" target="_blank">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clairo - Sling]]></title>
         <id>https://www.stereogum.com/tag/clairo/</id>
@@ -433,35 +462,6 @@
         
                   <div class="item-social-network">
             <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fsquirrel-flower%2Fplanet-i%2Flp-plus" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Lucy Dacus - Home Video]]></title>
-        <id>https://www.stereogum.com/tag/lucy-dacus/</id>
-        <link href="https://www.stereogum.com/tag/lucy-dacus/"/>
-        <updated>2021-07-07T11:03:41.321Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/lucy-dacus/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Lucy Dacus - Home Video" src="https://static.stereogum.com/uploads/2021/06/lucy-dacus-home-video-1624366613-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/lucy-dacus/"> Lucy Dacus - Home Video </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Flucy-dacus%2Fhome-video" target="_blank">
               <span class="icon-vinyl"></span>
               <span class="network_amazon">Rough Trade</span>
             </a>

@@ -2,8 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rcoppolo.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-19T17:41:01.327Z</updated>
+    <updated>2021-07-21T05:32:10.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Anika - Change (Stereogum: Heavy Rotation)]]></title>
+        <id>https://www.stereogum.com/tag/anika/</id>
+        <link href="https://www.stereogum.com/tag/anika/"/>
+        <updated>2021-07-21T05:32:10.241Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/anika/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Anika - Change" src="https://static.stereogum.com/uploads/2021/07/anika-change-1626279442-870x8701-1626793688-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/anika/"> Anika - Change </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fanika%2Fchange" target="_blank">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Clairo - Sling (Stereogum: Heavy Rotation)]]></title>
         <id>https://www.stereogum.com/tag/clairo/</id>
@@ -440,33 +469,26 @@
     	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Lucy Dacus - Home Video (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/lucy-dacus/</id>
-        <link href="https://www.stereogum.com/tag/lucy-dacus/"/>
-        <updated>2021-07-07T11:03:41.321Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/lucy-dacus/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Lucy Dacus - Home Video" src="https://static.stereogum.com/uploads/2021/06/lucy-dacus-home-video-1624366613-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/lucy-dacus/"> Lucy Dacus - Home Video </a>
-		</p>
-					<div class="article-card__social-network">
-                
+        <title type="html"><![CDATA[Jack Cooper & Jeff Tobias, “Tributaries” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/jack-cooper-jeff-tobias-tributaries-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/jack-cooper-jeff-tobias-tributaries-review"/>
+        <updated>2021-07-21T05:32:09.454Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/jack-cooper-jeff-tobias-tributaries-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025498159_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
         
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 20, 2021
+            </div>
         
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Flucy-dacus%2Fhome-video" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>]]></content>
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/jack-cooper-jeff-tobias-tributaries-review">Jack Cooper &amp; Jeff Tobias, “Tributaries”</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[The Lasso, Jordan Hamilton & The Saxsquatch, “Tri Magi” (Bandcamp: Album of the Day)]]></title>
@@ -1105,27 +1127,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/exum-xardinal-coffee-review">Exum, “Xardinal Coffee”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[N0V3L, “NON-FICTION” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/n0v3l-non-fiction-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/n0v3l-non-fiction-review"/>
-        <updated>2021-07-07T11:13:11.454Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/n0v3l-non-fiction-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025089298_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 07, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/n0v3l-non-fiction-review">N0V3L, “NON-FICTION”</a></div>]]></content>
     </entry>
 </feed>
