@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-07-21T17:41:53.277Z</updated>
+    <updated>2021-07-22T17:41:56.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Damiana, “Vines”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/damiana-vines-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/damiana-vines-review"/>
+        <updated>2021-07-22T17:41:55.197Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/damiana-vines-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025567178_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 22, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/damiana-vines-review">Damiana, “Vines”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Jalang, “Santau”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/jalang-santau-review</id>
@@ -642,27 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/avon-terror-corps-x-exist-festival-resist-to-exist-review">Avon Terror Corps x Exist Festival, ”Resist To Exist قاوم لِوجودك”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Giant Drag, “Lemona” and “Swan Song”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/giant-drag-lemona-and-swan-song-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/giant-drag-lemona-and-swan-song-review"/>
-        <updated>2021-07-07T11:13:11.437Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/giant-drag-lemona-and-swan-song-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025099992_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 09, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/giant-drag-lemona-and-swan-song-review">Giant Drag, “Lemona” and “Swan Song”</a></div>]]></content>
     </entry>
 </feed>
