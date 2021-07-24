@@ -2,8 +2,66 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rcoppolo.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-07-22T17:41:56.624Z</updated>
+    <updated>2021-07-24T17:38:46.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Dave - We're All Alone In This Together (Stereogum: Heavy Rotation)]]></title>
+        <id>https://www.stereogum.com/tag/dave/</id>
+        <link href="https://www.stereogum.com/tag/dave/"/>
+        <updated>2021-07-24T17:38:46.667Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/dave/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Dave - We're All Alone In This Together" src="https://static.stereogum.com/uploads/2021/07/Dave-Were-All-Alone-In-This-Together-1627051582-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/dave/"> Dave - We're All Alone In This Together </a>
+		</p>
+					<div class="article-card__social-network">
+                  <div class="item-social-network">
+            <a class="button button-spotify" href="https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG" target="_blank">
+            	<span class="icon-spotify"></span>
+              <span class="network_spotify">Spotify</span>
+            </a>
+          </div>
+                
+        
+        
+        
+              </div>
+    	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darkside - Spiral (Stereogum: Heavy Rotation)]]></title>
+        <id>https://www.stereogum.com/tag/darkside/</id>
+        <link href="https://www.stereogum.com/tag/darkside/"/>
+        <updated>2021-07-24T17:38:46.668Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/darkside/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Darkside - Spiral" src="https://static.stereogum.com/uploads/2021/07/unnamed-5-1626907964-330x330.jpg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/darkside/"> Darkside - Spiral </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fdarkside%2Fspiral" target="_blank">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anika - Change (Stereogum: Heavy Rotation)]]></title>
         <id>https://www.stereogum.com/tag/anika/</id>
@@ -411,62 +469,26 @@
     	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2nd Grade - Wish You Were Here Tour Revisited (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/2nd-grade/</id>
-        <link href="https://www.stereogum.com/tag/2nd-grade/"/>
-        <updated>2021-07-07T11:03:41.317Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/2nd-grade/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="2nd Grade - Wish You Were Here Tour Revisited" src="https://static.stereogum.com/uploads/2021/06/640192-1624478442-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/2nd-grade/"> 2nd Grade - Wish You Were Here Tour Revisited </a>
-		</p>
-					<div class="article-card__social-network">
-                
+        <title type="html"><![CDATA[Anika, “Change” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/anika-change-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/anika-change-review"/>
+        <updated>2021-07-24T17:38:44.311Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/anika-change-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025570141_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
         
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 23, 2021
+            </div>
         
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2F2nd-grade%2Fwish-you-were-here-tour-revisited" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Squirrel Flower - Planet (i) (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/squirrel-flower/</id>
-        <link href="https://www.stereogum.com/tag/squirrel-flower/"/>
-        <updated>2021-07-07T11:03:41.320Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/squirrel-flower/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Squirrel Flower - Planet (i)" src="https://static.stereogum.com/uploads/2021/06/PRC-435_HiRes-1624377999-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/squirrel-flower/"> Squirrel Flower - Planet (i) </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fsquirrel-flower%2Fplanet-i%2Flp-plus" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>]]></content>
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/anika-change-review">Anika, “Change”</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Damiana, “Vines” (Bandcamp: Album of the Day)]]></title>
@@ -1105,27 +1127,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/six-organs-of-admittance-the-veiled-sea-review">Six Organs of Admittance, “The Veiled Sea”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Avon Terror Corps x Exist Festival, ”Resist To Exist قاوم لِوجودك” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/avon-terror-corps-x-exist-festival-resist-to-exist-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/avon-terror-corps-x-exist-festival-resist-to-exist-review"/>
-        <updated>2021-07-07T11:13:11.429Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/avon-terror-corps-x-exist-festival-resist-to-exist-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025161368_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 10, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/avon-terror-corps-x-exist-festival-resist-to-exist-review">Avon Terror Corps x Exist Festival, ”Resist To Exist قاوم لِوجودك”</a></div>]]></content>
     </entry>
 </feed>

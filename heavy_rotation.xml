@@ -2,9 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stereogum.com/heavy-rotation/</id>
     <title>Stereogum: Heavy Rotation</title>
-    <updated>2021-07-22T17:41:56.656Z</updated>
+    <updated>2021-07-24T17:38:46.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stereogum.com/wp-content/themes/stereogum-ws/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Dave - We're All Alone In This Together]]></title>
+        <id>https://www.stereogum.com/tag/dave/</id>
+        <link href="https://www.stereogum.com/tag/dave/"/>
+        <updated>2021-07-24T17:38:46.667Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/dave/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Dave - We're All Alone In This Together" src="https://static.stereogum.com/uploads/2021/07/Dave-Were-All-Alone-In-This-Together-1627051582-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/dave/"> Dave - We're All Alone In This Together </a>
+		</p>
+					<div class="article-card__social-network">
+                  <div class="item-social-network">
+            <a class="button button-spotify" href="https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG" target="_blank">
+            	<span class="icon-spotify"></span>
+              <span class="network_spotify">Spotify</span>
+            </a>
+          </div>
+                
+        
+        
+        
+              </div>
+    	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Darkside - Spiral]]></title>
+        <id>https://www.stereogum.com/tag/darkside/</id>
+        <link href="https://www.stereogum.com/tag/darkside/"/>
+        <updated>2021-07-24T17:38:46.668Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/darkside/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Darkside - Spiral" src="https://static.stereogum.com/uploads/2021/07/unnamed-5-1626907964-330x330.jpg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/darkside/"> Darkside - Spiral </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fdarkside%2Fspiral" target="_blank">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anika - Change]]></title>
         <id>https://www.stereogum.com/tag/anika/</id>
@@ -408,64 +466,6 @@
           </div>
         
         
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2nd Grade - Wish You Were Here Tour Revisited]]></title>
-        <id>https://www.stereogum.com/tag/2nd-grade/</id>
-        <link href="https://www.stereogum.com/tag/2nd-grade/"/>
-        <updated>2021-07-07T11:03:41.317Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/2nd-grade/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="2nd Grade - Wish You Were Here Tour Revisited" src="https://static.stereogum.com/uploads/2021/06/640192-1624478442-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/2nd-grade/"> 2nd Grade - Wish You Were Here Tour Revisited </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2F2nd-grade%2Fwish-you-were-here-tour-revisited" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Squirrel Flower - Planet (i)]]></title>
-        <id>https://www.stereogum.com/tag/squirrel-flower/</id>
-        <link href="https://www.stereogum.com/tag/squirrel-flower/"/>
-        <updated>2021-07-07T11:03:41.320Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/squirrel-flower/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Squirrel Flower - Planet (i)" src="https://static.stereogum.com/uploads/2021/06/PRC-435_HiRes-1624377999-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/squirrel-flower/"> Squirrel Flower - Planet (i) </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.dpbolvw.net/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fsquirrel-flower%2Fplanet-i%2Flp-plus" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
               </div>
     	</div>]]></content>
     </entry>
