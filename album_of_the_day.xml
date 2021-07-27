@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-07-24T17:38:46.887Z</updated>
+    <updated>2021-07-27T05:32:07.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Bacao Rhythm and Steel Band, “Expansions”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/bacao-rhythm-and-steel-band-expansions-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/bacao-rhythm-and-steel-band-expansions-review"/>
+        <updated>2021-07-27T05:32:05.791Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/bacao-rhythm-and-steel-band-expansions-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025579556_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 26, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/bacao-rhythm-and-steel-band-expansions-review">Bacao Rhythm and Steel Band, “Expansions”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Anika, “Change”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/anika-change-review</id>
@@ -642,27 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/the-narcotix-mommy-issues-review">The Narcotix, “Mommy Issues”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Six Organs of Admittance, “The Veiled Sea”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/six-organs-of-admittance-the-veiled-sea-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/six-organs-of-admittance-the-veiled-sea-review"/>
-        <updated>2021-07-07T11:13:11.428Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/six-organs-of-admittance-the-veiled-sea-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025154111_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 11, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/six-organs-of-admittance-the-veiled-sea-review">Six Organs of Admittance, “The Veiled Sea”</a></div>]]></content>
     </entry>
 </feed>
