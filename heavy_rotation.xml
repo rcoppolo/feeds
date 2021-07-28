@@ -2,9 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stereogum.com/heavy-rotation/</id>
     <title>Stereogum: Heavy Rotation</title>
-    <updated>2021-07-27T05:32:08.000Z</updated>
+    <updated>2021-07-28T17:41:23.755Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stereogum.com/wp-content/themes/stereogum-ws/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Torres - Thirstier]]></title>
+        <id>https://www.stereogum.com/tag/torres/</id>
+        <link href="https://www.stereogum.com/tag/torres/"/>
+        <updated>2021-07-28T17:41:23.522Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/torres/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Torres - Thirstier" src="https://static.stereogum.com/uploads/2021/07/torres-thirstier-1627403688-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/torres/"> Torres - Thirstier </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.jdoqocy.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Ftorres%2Fthirstier%2Flp" target="_blank">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Dave - We're All Alone In This Together]]></title>
         <id>https://www.stereogum.com/tag/dave/</id>
@@ -437,35 +466,6 @@
               <span class="network_amazon">Rough Trade</span>
             </a>
           </div>
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SAULT - NINE]]></title>
-        <id>https://www.stereogum.com/tag/sault/</id>
-        <link href="https://www.stereogum.com/tag/sault/"/>
-        <updated>2021-07-07T11:03:41.310Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/sault/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="SAULT - NINE" src="https://static.stereogum.com/uploads/2021/06/a2352533554_10-1624578472-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/sault/"> SAULT - NINE </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-                  <div class="item-social-network">
-            <a class="button button-bandcamp" href="https://saultglobal.bandcamp.com/album/nine" target="_blank">
-            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
-          		<span class="network_amazon">Bandcamp</span>
-          	</a> 
-          </div>
-        
-        
               </div>
     	</div>]]></content>
     </entry>
