@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-07-29T17:42:39.026Z</updated>
+    <updated>2021-07-30T17:40:00.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Xhosa Cole, “K(no)w Them, K(no)w Us”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/xhosa-cole-know-them-know-us-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/xhosa-cole-know-them-know-us-review"/>
+        <updated>2021-07-30T17:39:58.514Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/xhosa-cole-know-them-know-us-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025640222_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                July 30, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/xhosa-cole-know-them-know-us-review">Xhosa Cole, “K(no)w Them, K(no)w Us”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[King Woman, “Celestial Blues”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/king-woman-celestial-blues-review</id>
@@ -642,27 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/conclave-conclave-review">Conclave, “Conclave”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Red Ribbon, “Planet X”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/red-ribbon-planet-x-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/red-ribbon-planet-x-review"/>
-        <updated>2021-07-07T11:13:11.419Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/red-ribbon-planet-x-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025173664_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 17, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/red-ribbon-planet-x-review">Red Ribbon, “Planet X”</a></div>]]></content>
     </entry>
 </feed>
