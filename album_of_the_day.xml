@@ -2,9 +2,31 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-08-01T05:32:08.820Z</updated>
+    <updated>2021-08-03T05:31:47.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Teamonade, “This Far”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/teamonade-this-far-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/teamonade-this-far-review"/>
+        <updated>2021-08-03T05:31:46.181Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/teamonade-this-far-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025631180_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 02, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/teamonade-this-far-review">Teamonade, “This Far”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Xhosa Cole, “K(no)w Them, K(no)w Us”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/xhosa-cole-know-them-know-us-review</id>
@@ -642,27 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/mj-guider-temporary-requiem-review">MJ Guider, “Temporary Requiem”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Conclave, “Conclave”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/conclave-conclave-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/conclave-conclave-review"/>
-        <updated>2021-07-07T11:13:11.419Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/conclave-conclave-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025242660_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 18, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/conclave-conclave-review">Conclave, “Conclave”</a></div>]]></content>
     </entry>
 </feed>
