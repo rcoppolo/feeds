@@ -2,9 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-08-03T17:46:16.500Z</updated>
+    <updated>2021-08-06T17:39:56.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Damon & Naomi, “A Sky Record”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/damon-naomi-a-sky-record-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/damon-naomi-a-sky-record-review"/>
+        <updated>2021-08-06T17:39:53.792Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/damon-naomi-a-sky-record-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025710959_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 06, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/damon-naomi-a-sky-record-review">Damon &amp; Naomi, “A Sky Record”</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Steoples, “Wide Through The Eyes Of No One”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/the-steoples-wide-through-the-eyes-of-no-one-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/the-steoples-wide-through-the-eyes-of-no-one-review"/>
+        <updated>2021-08-06T17:39:53.813Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/the-steoples-wide-through-the-eyes-of-no-one-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025697372_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 05, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/the-steoples-wide-through-the-eyes-of-no-one-review">The Steoples, “Wide Through The Eyes Of No One”</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Li Yilei, “之 / OF”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/li-yilei-z-of-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/li-yilei-z-of-review"/>
+        <updated>2021-08-06T17:39:53.813Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/li-yilei-z-of-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025642466_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 04, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/li-yilei-z-of-review">Li Yilei, “之 / OF”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Sonny & The Sunsets, “New Day With New Possibilities”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/sonny-and-the-sunsets-new-day-with-new-possibilities-review</id>
@@ -598,71 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/spellling-the-turning-wheel">SPELLLING, “The Turning Wheel”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Janette King, “What We Lost”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/janette-king-what-we-lost-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/janette-king-what-we-lost-review"/>
-        <updated>2021-07-07T11:13:11.416Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/janette-king-what-we-lost-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025293590_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 24, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/janette-king-what-we-lost-review">Janette King, “What We Lost”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flowertown, “Flowertown”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/flowertown-self-titled-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/flowertown-self-titled-review"/>
-        <updated>2021-07-07T11:13:11.416Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/flowertown-self-titled-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025291162_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 23, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/flowertown-self-titled-review">Flowertown, “Flowertown”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Don Zilla, “Ekizikiza Mubwengula”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/don-zilla-ekizikiza-mubwengula-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/don-zilla-ekizikiza-mubwengula-review"/>
-        <updated>2021-07-07T11:13:11.417Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/don-zilla-ekizikiza-mubwengula-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025234727_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 22, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/don-zilla-ekizikiza-mubwengula-review">Don Zilla, “Ekizikiza Mubwengula”</a></div>]]></content>
     </entry>
 </feed>
