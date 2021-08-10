@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-08-09T05:31:58.752Z</updated>
+    <updated>2021-08-10T17:40:49.328Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Liars, “The Apple Drop”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/liars-the-apple-drop-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/liars-the-apple-drop-review"/>
+        <updated>2021-08-10T17:40:47.579Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/liars-the-apple-drop-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025708077_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 10, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/liars-the-apple-drop-review">Liars, “The Apple Drop”</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freshman Woes, “Thank You Rap Gods”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/freshman-woes-thank-you-rap-gods-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/freshman-woes-thank-you-rap-gods-review"/>
+        <updated>2021-08-10T17:40:47.579Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/freshman-woes-thank-you-rap-gods-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025698909_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 09, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/freshman-woes-thank-you-rap-gods-review">Freshman Woes, “Thank You Rap Gods”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Damon & Naomi, “A Sky Record”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/damon-naomi-a-sky-record-review</id>
@@ -620,49 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/backxwash-i-lie-here-buried-with-my-rings-and-my-dresses-review">Backxwash, “I LIE HERE BURIED WITH MY RINGS AND MY DRESSES”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prolaps, “Ultra Cycle Pt. 2: Estival Growth”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review"/>
-        <updated>2021-07-07T11:13:11.413Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025294275_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 28, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review">Prolaps, “Ultra Cycle Pt. 2: Estival Growth”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPELLLING, “The Turning Wheel”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/spellling-the-turning-wheel</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/spellling-the-turning-wheel"/>
-        <updated>2021-07-07T11:13:11.415Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/spellling-the-turning-wheel" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025312217_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 25, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/spellling-the-turning-wheel">SPELLLING, “The Turning Wheel”</a></div>]]></content>
     </entry>
 </feed>

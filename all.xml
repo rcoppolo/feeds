@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rcoppolo.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-09T05:31:58.768Z</updated>
+    <updated>2021-08-10T17:40:49.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Lingua Ignota - Sinner Get Ready (Stereogum: Heavy Rotation)]]></title>
@@ -30,6 +30,41 @@
               <span class="network_amazon">Rough Trade</span>
             </a>
           </div>
+              </div>
+    	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinashe - 333 (Stereogum: Heavy Rotation)]]></title>
+        <id>https://www.stereogum.com/tag/tinashe/</id>
+        <link href="https://www.stereogum.com/tag/tinashe/"/>
+        <updated>2021-08-10T17:40:49.175Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/tinashe/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Tinashe - 333" src="https://static.stereogum.com/uploads/2021/08/333-1628262897-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/tinashe/"> Tinashe - 333 </a>
+		</p>
+					<div class="article-card__social-network">
+                  <div class="item-social-network">
+            <a class="button button-spotify" href="https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j" target="_blank">
+            	<span class="icon-spotify"></span>
+              <span class="network_spotify">Spotify</span>
+            </a>
+          </div>
+                
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-apple-music" href="https://geo.music.apple.com/us/album/333/1577329560" target="_blank">
+              <span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
+              <span class="network_amazon">Apple Music</span>
+            </a>
+          </div>
+        
               </div>
     	</div>]]></content>
     </entry>
@@ -446,33 +481,48 @@
     	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jodi - Blue Heron (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/jodi/</id>
-        <link href="https://www.stereogum.com/tag/jodi/"/>
-        <updated>2021-07-16T05:32:28.693Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/jodi/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Jodi - Blue Heron" src="https://static.stereogum.com/uploads/2021/07/unnamed-2021-07-08T171310.571-1625778799-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/jodi/"> Jodi - Blue Heron </a>
-		</p>
-					<div class="article-card__social-network">
-                
+        <title type="html"><![CDATA[Liars, “The Apple Drop” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/liars-the-apple-drop-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/liars-the-apple-drop-review"/>
+        <updated>2021-08-10T17:40:47.579Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/liars-the-apple-drop-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025708077_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
         
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 10, 2021
+            </div>
         
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/liars-the-apple-drop-review">Liars, “The Apple Drop”</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Freshman Woes, “Thank You Rap Gods” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/freshman-woes-thank-you-rap-gods-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/freshman-woes-thank-you-rap-gods-review"/>
+        <updated>2021-08-10T17:40:47.579Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/freshman-woes-thank-you-rap-gods-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025698909_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
         
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fjodi%2Fblue-heron" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>]]></content>
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 09, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/freshman-woes-thank-you-rap-gods-review">Freshman Woes, “Thank You Rap Gods”</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Damon & Naomi, “A Sky Record” (Bandcamp: Album of the Day)]]></title>
@@ -1089,49 +1139,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/backxwash-i-lie-here-buried-with-my-rings-and-my-dresses-review">Backxwash, “I LIE HERE BURIED WITH MY RINGS AND MY DRESSES”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Prolaps, “Ultra Cycle Pt. 2: Estival Growth” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review"/>
-        <updated>2021-07-07T11:13:11.413Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025294275_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 28, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/prolaps-ultra-cycle-pt-2-estival-growth-review">Prolaps, “Ultra Cycle Pt. 2: Estival Growth”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPELLLING, “The Turning Wheel” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/spellling-the-turning-wheel</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/spellling-the-turning-wheel"/>
-        <updated>2021-07-07T11:13:11.415Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/spellling-the-turning-wheel" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025312217_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 25, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/spellling-the-turning-wheel">SPELLLING, “The Turning Wheel”</a></div>]]></content>
     </entry>
 </feed>

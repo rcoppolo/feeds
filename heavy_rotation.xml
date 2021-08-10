@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stereogum.com/heavy-rotation/</id>
     <title>Stereogum: Heavy Rotation</title>
-    <updated>2021-08-09T05:31:58.746Z</updated>
+    <updated>2021-08-10T17:40:49.315Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stereogum.com/wp-content/themes/stereogum-ws/favicon.png</icon>
     <entry>
@@ -31,6 +31,41 @@
               <span class="network_amazon">Rough Trade</span>
             </a>
           </div>
+              </div>
+    	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Tinashe - 333]]></title>
+        <id>https://www.stereogum.com/tag/tinashe/</id>
+        <link href="https://www.stereogum.com/tag/tinashe/"/>
+        <updated>2021-08-10T17:40:49.175Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/tinashe/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Tinashe - 333" src="https://static.stereogum.com/uploads/2021/08/333-1628262897-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/tinashe/"> Tinashe - 333 </a>
+		</p>
+					<div class="article-card__social-network">
+                  <div class="item-social-network">
+            <a class="button button-spotify" href="https://open.spotify.com/album/0LHqiYYOsVM9lh9c9w0G1j" target="_blank">
+            	<span class="icon-spotify"></span>
+              <span class="network_spotify">Spotify</span>
+            </a>
+          </div>
+                
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-apple-music" href="https://geo.music.apple.com/us/album/333/1577329560" target="_blank">
+              <span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
+              <span class="network_amazon">Apple Music</span>
+            </a>
+          </div>
+        
               </div>
     	</div>]]></content>
     </entry>
@@ -443,35 +478,6 @@
           </div>
         
         
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jodi - Blue Heron]]></title>
-        <id>https://www.stereogum.com/tag/jodi/</id>
-        <link href="https://www.stereogum.com/tag/jodi/"/>
-        <updated>2021-07-16T05:32:28.693Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/jodi/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Jodi - Blue Heron" src="https://static.stereogum.com/uploads/2021/07/unnamed-2021-07-08T171310.571-1625778799-330x330.jpg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/jodi/"> Jodi - Blue Heron </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.kqzyfj.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fjodi%2Fblue-heron" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
               </div>
     	</div>]]></content>
     </entry>
