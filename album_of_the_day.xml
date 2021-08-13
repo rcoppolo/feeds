@@ -2,9 +2,75 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-08-10T17:40:49.328Z</updated>
+    <updated>2021-08-13T17:39:04.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Pachyman, “The Return of​.​.​.”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/pachyman-return-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/pachyman-return-review"/>
+        <updated>2021-08-13T17:39:04.134Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/pachyman-return-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025770369_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 13, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/pachyman-return-review">Pachyman, “The Return of​.​.​.”</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Stuck, “Content That Makes You Feel Good”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/stuck-content-that-makes-you-feel-good-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/stuck-content-that-makes-you-feel-good-review"/>
+        <updated>2021-08-13T17:39:04.134Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/stuck-content-that-makes-you-feel-good-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025699517_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 12, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/stuck-content-that-makes-you-feel-good-review">Stuck, “Content That Makes You Feel Good”</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NTsKi, “Orca”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/ntski-orca-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/ntski-orca-review"/>
+        <updated>2021-08-13T17:39:04.134Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/ntski-orca-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025787443_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 11, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/ntski-orca-review">NTsKi, “Orca”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Liars, “The Apple Drop”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/liars-the-apple-drop-review</id>
@@ -598,71 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/various-artists-wallahi-le-zein-review">Various Artists, “Wallahi Le Zein!”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Jason Nazary, “Spring Collection”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/jason-nazary-spring-collection-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/jason-nazary-spring-collection-review"/>
-        <updated>2021-07-07T11:13:11.403Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/jason-nazary-spring-collection-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025325187_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                July 01, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/jason-nazary-spring-collection-review">Jason Nazary, “Spring Collection”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MIKE, “Disco!”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/mike-disco-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/mike-disco-review"/>
-        <updated>2021-07-07T11:13:11.405Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/mike-disco-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025358463_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 30, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/mike-disco-review">MIKE, “Disco!”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backxwash, “I LIE HERE BURIED WITH MY RINGS AND MY DRESSES”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/backxwash-i-lie-here-buried-with-my-rings-and-my-dresses-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/backxwash-i-lie-here-buried-with-my-rings-and-my-dresses-review"/>
-        <updated>2021-07-07T11:13:11.408Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/backxwash-i-lie-here-buried-with-my-rings-and-my-dresses-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025312690_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                June 29, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/backxwash-i-lie-here-buried-with-my-rings-and-my-dresses-review">Backxwash, “I LIE HERE BURIED WITH MY RINGS AND MY DRESSES”</a></div>]]></content>
     </entry>
 </feed>
