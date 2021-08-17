@@ -2,9 +2,38 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stereogum.com/heavy-rotation/</id>
     <title>Stereogum: Heavy Rotation</title>
-    <updated>2021-08-14T05:32:08.178Z</updated>
+    <updated>2021-08-17T05:32:05.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stereogum.com/wp-content/themes/stereogum-ws/favicon.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Deafheaven - Infinite Granite]]></title>
+        <id>https://www.stereogum.com/tag/deafheaven/</id>
+        <link href="https://www.stereogum.com/tag/deafheaven/"/>
+        <updated>2021-08-17T05:31:55.187Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/deafheaven/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Deafheaven - Infinite Granite" src="https://static.stereogum.com/uploads/2021/08/cover-Deafheaven-Infinite-Granite-1629130837-330x330.jpg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/deafheaven/"> Deafheaven - Infinite Granite </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.jdoqocy.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fdeafheaven%2Finfinite-granite" target="_blank">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Great Big Pile Of Leaves - Pono]]></title>
         <id>https://www.stereogum.com/tag/a-great-big-pile-of-leaves/</id>
@@ -449,35 +478,6 @@
               <span class="network_amazon">Rough Trade</span>
             </a>
           </div>
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dave - We're All Alone In This Together]]></title>
-        <id>https://www.stereogum.com/tag/dave/</id>
-        <link href="https://www.stereogum.com/tag/dave/"/>
-        <updated>2021-07-24T17:38:46.667Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/dave/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Dave - We're All Alone In This Together" src="https://static.stereogum.com/uploads/2021/07/Dave-Were-All-Alone-In-This-Together-1627051582-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/dave/"> Dave - We're All Alone In This Together </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG" target="_blank">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
-        
-        
-        
               </div>
     	</div>]]></content>
     </entry>

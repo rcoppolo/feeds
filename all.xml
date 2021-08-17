@@ -2,8 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rcoppolo.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-14T05:32:08.185Z</updated>
+    <updated>2021-08-17T05:32:05.041Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Deafheaven - Infinite Granite (Stereogum: Heavy Rotation)]]></title>
+        <id>https://www.stereogum.com/tag/deafheaven/</id>
+        <link href="https://www.stereogum.com/tag/deafheaven/"/>
+        <updated>2021-08-17T05:31:55.187Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/deafheaven/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Deafheaven - Infinite Granite" src="https://static.stereogum.com/uploads/2021/08/cover-Deafheaven-Infinite-Granite-1629130837-330x330.jpg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/deafheaven/"> Deafheaven - Infinite Granite </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+        
+        
+                  <div class="item-social-network">
+            <a class="button button-rough-trade" href="https://www.jdoqocy.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Fdeafheaven%2Finfinite-granite" target="_blank">
+              <span class="icon-vinyl"></span>
+              <span class="network_amazon">Rough Trade</span>
+            </a>
+          </div>
+              </div>
+    	</div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[A Great Big Pile Of Leaves - Pono (Stereogum: Heavy Rotation)]]></title>
         <id>https://www.stereogum.com/tag/a-great-big-pile-of-leaves/</id>
@@ -452,33 +481,26 @@
     	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Dave - We're All Alone In This Together (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/dave/</id>
-        <link href="https://www.stereogum.com/tag/dave/"/>
-        <updated>2021-07-24T17:38:46.667Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/dave/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Dave - We're All Alone In This Together" src="https://static.stereogum.com/uploads/2021/07/Dave-Were-All-Alone-In-This-Together-1627051582-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/dave/"> Dave - We're All Alone In This Together </a>
-		</p>
-					<div class="article-card__social-network">
-                  <div class="item-social-network">
-            <a class="button button-spotify" href="https://open.spotify.com/album/6HwzIlrCDq3WF9vMq8meqG" target="_blank">
-            	<span class="icon-spotify"></span>
-              <span class="network_spotify">Spotify</span>
-            </a>
-          </div>
-                
+        <title type="html"><![CDATA[Tanya Morgan, “Don and Von” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/tanya-morgan-don-and-von-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/tanya-morgan-don-and-von-review"/>
+        <updated>2021-08-17T05:32:04.210Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/tanya-morgan-don-and-von-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025783482_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
         
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 16, 2021
+            </div>
         
-        
-              </div>
-    	</div>]]></content>
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/tanya-morgan-don-and-von-review">Tanya Morgan, “Don and Von”</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Pachyman, “The Return of​.​.​.” (Bandcamp: Album of the Day)]]></title>
@@ -1117,27 +1139,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/amaro-freitas-sankofa-review">Amaro Freitas, “Sankofa”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Various Artists, “Wallahi Le Zein!” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/various-artists-wallahi-le-zein-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/various-artists-wallahi-le-zein-review"/>
-        <updated>2021-07-07T11:13:11.402Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/various-artists-wallahi-le-zein-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025351503_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                July 02, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/various-artists-wallahi-le-zein-review">Various Artists, “Wallahi Le Zein!”</a></div>]]></content>
     </entry>
 </feed>
