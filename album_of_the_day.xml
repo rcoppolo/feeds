@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-08-17T05:32:05.033Z</updated>
+    <updated>2021-08-19T05:32:00.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Justus Profitt, “Speedstar”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/justus-profitt-speedstar-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/justus-profitt-speedstar-review"/>
+        <updated>2021-08-19T05:31:59.920Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/justus-profitt-speedstar-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025833834_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 18, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/justus-profitt-speedstar-review">Justus Profitt, “Speedstar”</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amami, “Soleil”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/amami-soleil-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/amami-soleil-review"/>
+        <updated>2021-08-19T05:31:59.934Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/amami-soleil-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025781633_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 17, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/amami-soleil-review">Amami, “Soleil”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tanya Morgan, “Don and Von”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/tanya-morgan-don-and-von-review</id>
@@ -620,49 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/dolphin-midwives-body-of-water-review">Dolphin Midwives, “Body of Water”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les Filles de Illighadad, “At Pioneer Works”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/les-filles-de-illighadad-at-pioneer-works-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/les-filles-de-illighadad-at-pioneer-works-review"/>
-        <updated>2021-07-07T17:47:23.119Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/les-filles-de-illighadad-at-pioneer-works-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025363360_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                July 07, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/les-filles-de-illighadad-at-pioneer-works-review">Les Filles de Illighadad, “At Pioneer Works”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amaro Freitas, “Sankofa”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/amaro-freitas-sankofa-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/amaro-freitas-sankofa-review"/>
-        <updated>2021-07-07T11:13:11.398Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/amaro-freitas-sankofa-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025351412_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                July 06, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/amaro-freitas-sankofa-review">Amaro Freitas, “Sankofa”</a></div>]]></content>
     </entry>
 </feed>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://rcoppolo.github.io/feeds/all.xml</id>
     <title>Combined feed</title>
-    <updated>2021-08-17T05:32:05.041Z</updated>
+    <updated>2021-08-19T05:32:00.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Deafheaven - Infinite Granite (Stereogum: Heavy Rotation)]]></title>
@@ -82,6 +82,35 @@
         
                   <div class="item-social-network">
             <a class="button button-bandcamp" href="https://quicksandnyc.bandcamp.com/album/distant-populations" target="_blank">
+            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
+          		<span class="network_amazon">Bandcamp</span>
+          	</a> 
+          </div>
+        
+        
+              </div>
+    	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wolves In The Throne Room - Primordial Arcana (Stereogum: Heavy Rotation)]]></title>
+        <id>https://www.stereogum.com/tag/wolves-in-the-throne-room/</id>
+        <link href="https://www.stereogum.com/tag/wolves-in-the-throne-room/"/>
+        <updated>2021-08-19T05:31:54.979Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/wolves-in-the-throne-room/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Wolves In The Throne Room - Primordial Arcana" src="https://static.stereogum.com/uploads/2021/08/Wolves-In-The-Throne-Room-Primordial-Arcana-1628811162-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/wolves-in-the-throne-room/"> Wolves In The Throne Room - Primordial Arcana </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+                  <div class="item-social-network">
+            <a class="button button-bandcamp" href="https://wolvesinthethroneroom.bandcamp.com/album/primordial-arcana" target="_blank">
             	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
           		<span class="network_amazon">Bandcamp</span>
           	</a> 
@@ -452,33 +481,48 @@
     	</div>]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Torres - Thirstier (Stereogum: Heavy Rotation)]]></title>
-        <id>https://www.stereogum.com/tag/torres/</id>
-        <link href="https://www.stereogum.com/tag/torres/"/>
-        <updated>2021-07-28T17:41:23.522Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/torres/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Torres - Thirstier" src="https://static.stereogum.com/uploads/2021/07/torres-thirstier-1627403688-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/torres/"> Torres - Thirstier </a>
-		</p>
-					<div class="article-card__social-network">
-                
+        <title type="html"><![CDATA[Justus Profitt, “Speedstar” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/justus-profitt-speedstar-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/justus-profitt-speedstar-review"/>
+        <updated>2021-08-19T05:31:59.920Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/justus-profitt-speedstar-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025833834_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
         
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 18, 2021
+            </div>
         
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/justus-profitt-speedstar-review">Justus Profitt, “Speedstar”</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Amami, “Soleil” (Bandcamp: Album of the Day)]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/amami-soleil-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/amami-soleil-review"/>
+        <updated>2021-08-19T05:31:59.934Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/amami-soleil-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025781633_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
         
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.jdoqocy.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Ftorres%2Fthirstier%2Flp" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
-              </div>
-    	</div>]]></content>
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 17, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/amami-soleil-review">Amami, “Soleil”</a></div>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Tanya Morgan, “Don and Von” (Bandcamp: Album of the Day)]]></title>
@@ -1095,49 +1139,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/dolphin-midwives-body-of-water-review">Dolphin Midwives, “Body of Water”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Les Filles de Illighadad, “At Pioneer Works” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/les-filles-de-illighadad-at-pioneer-works-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/les-filles-de-illighadad-at-pioneer-works-review"/>
-        <updated>2021-07-07T17:47:23.119Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/les-filles-de-illighadad-at-pioneer-works-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025363360_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                July 07, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/les-filles-de-illighadad-at-pioneer-works-review">Les Filles de Illighadad, “At Pioneer Works”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Amaro Freitas, “Sankofa” (Bandcamp: Album of the Day)]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/amaro-freitas-sankofa-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/amaro-freitas-sankofa-review"/>
-        <updated>2021-07-07T11:13:11.398Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/amaro-freitas-sankofa-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025351412_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                July 06, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/amaro-freitas-sankofa-review">Amaro Freitas, “Sankofa”</a></div>]]></content>
     </entry>
 </feed>

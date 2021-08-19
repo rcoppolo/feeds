@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.stereogum.com/heavy-rotation/</id>
     <title>Stereogum: Heavy Rotation</title>
-    <updated>2021-08-17T05:32:05.027Z</updated>
+    <updated>2021-08-19T05:32:00.624Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.stereogum.com/wp-content/themes/stereogum-ws/favicon.png</icon>
     <entry>
@@ -83,6 +83,35 @@
         
                   <div class="item-social-network">
             <a class="button button-bandcamp" href="https://quicksandnyc.bandcamp.com/album/distant-populations" target="_blank">
+            	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
+          		<span class="network_amazon">Bandcamp</span>
+          	</a> 
+          </div>
+        
+        
+              </div>
+    	</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Wolves In The Throne Room - Primordial Arcana]]></title>
+        <id>https://www.stereogum.com/tag/wolves-in-the-throne-room/</id>
+        <link href="https://www.stereogum.com/tag/wolves-in-the-throne-room/"/>
+        <updated>2021-08-19T05:31:54.979Z</updated>
+        <content type="html"><![CDATA[<div class="article-card__image-container">
+		<a href="https://www.stereogum.com/tag/wolves-in-the-throne-room/">
+      <div class="article-card__image intrinsic">
+                  <img class="intrinsic__item" title="Wolves In The Throne Room - Primordial Arcana" src="https://static.stereogum.com/uploads/2021/08/Wolves-In-The-Throne-Room-Primordial-Arcana-1628811162-330x330.jpeg">
+              </div>
+  	</a>
+	</div>
+	<div class="article-card__content">
+		<p class="article-card__title"><a href="https://www.stereogum.com/tag/wolves-in-the-throne-room/"> Wolves In The Throne Room - Primordial Arcana </a>
+		</p>
+					<div class="article-card__social-network">
+                
+        
+                  <div class="item-social-network">
+            <a class="button button-bandcamp" href="https://wolvesinthethroneroom.bandcamp.com/album/primordial-arcana" target="_blank">
             	<span class="icon-listen"><span class="path1"></span><span class="path2"></span></span>
           		<span class="network_amazon">Bandcamp</span>
           	</a> 
@@ -449,35 +478,6 @@
           </div>
         
         
-              </div>
-    	</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Torres - Thirstier]]></title>
-        <id>https://www.stereogum.com/tag/torres/</id>
-        <link href="https://www.stereogum.com/tag/torres/"/>
-        <updated>2021-07-28T17:41:23.522Z</updated>
-        <content type="html"><![CDATA[<div class="article-card__image-container">
-		<a href="https://www.stereogum.com/tag/torres/">
-      <div class="article-card__image intrinsic">
-                  <img class="intrinsic__item" title="Torres - Thirstier" src="https://static.stereogum.com/uploads/2021/07/torres-thirstier-1627403688-330x330.jpeg">
-              </div>
-  	</a>
-	</div>
-	<div class="article-card__content">
-		<p class="article-card__title"><a href="https://www.stereogum.com/tag/torres/"> Torres - Thirstier </a>
-		</p>
-					<div class="article-card__social-network">
-                
-        
-        
-        
-                  <div class="item-social-network">
-            <a class="button button-rough-trade" href="https://www.jdoqocy.com/click-100265855-13731375?url=https%3A%2F%2Fwww.roughtrade.com%2Fus%2Ftorres%2Fthirstier%2Flp" target="_blank">
-              <span class="icon-vinyl"></span>
-              <span class="network_amazon">Rough Trade</span>
-            </a>
-          </div>
               </div>
     	</div>]]></content>
     </entry>
