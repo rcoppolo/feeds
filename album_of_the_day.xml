@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://daily.bandcamp.com/album-of-the-day</id>
     <title>Bandcamp: Album of the Day</title>
-    <updated>2021-08-19T05:32:00.633Z</updated>
+    <updated>2021-08-22T17:37:44.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://s4.bcbits.com/img/favicon/favicon-32x32.png</icon>
+    <entry>
+        <title type="html"><![CDATA[G. Brenner, “Brushfire”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/g-brenner-brushfire-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/g-brenner-brushfire-review"/>
+        <updated>2021-08-22T17:37:44.192Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/g-brenner-brushfire-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025853979_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 20, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/g-brenner-brushfire-review">G. Brenner, “Brushfire”</a></div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Bnny, “Everything”]]></title>
+        <id>https://daily.bandcamp.com/album-of-the-day/bnny-everything-review</id>
+        <link href="https://daily.bandcamp.com/album-of-the-day/bnny-everything-review"/>
+        <updated>2021-08-22T17:37:44.193Z</updated>
+        <content type="html"><![CDATA[<a href="/album-of-the-day/bnny-everything-review" class="thumb aotd-image">
+            
+                <aotd-ornament-small></aotd-ornament-small>
+                <img src="https://f4.bcbits.com/img/0025789778_2.jpg">
+                <aotd-ornament-small class="right"></aotd-ornament-small>
+
+            
+        </a>
+        
+            <div class="article-info-text">
+                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
+                <span class="middot">·</span>
+                August 19, 2021
+            </div>
+        
+        <div class="title-wrapper"><a class="title" href="/album-of-the-day/bnny-everything-review">Bnny, “Everything”</a></div>]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Justus Profitt, “Speedstar”]]></title>
         <id>https://daily.bandcamp.com/album-of-the-day/justus-profitt-speedstar-review</id>
@@ -620,49 +664,5 @@
             </div>
         
         <div class="title-wrapper"><a class="title" href="/album-of-the-day/charlotte-day-wilson-alpha-review">Charlotte Day Wilson, “Alpha”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Deep Aztec, “Healing Frequencies”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/deep-aztec-healing-frequencies-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/deep-aztec-healing-frequencies-review"/>
-        <updated>2021-07-10T05:31:51.185Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/deep-aztec-healing-frequencies-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025440505_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                July 09, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/deep-aztec-healing-frequencies-review">Deep Aztec, “Healing Frequencies”</a></div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dolphin Midwives, “Body of Water”]]></title>
-        <id>https://daily.bandcamp.com/album-of-the-day/dolphin-midwives-body-of-water-review</id>
-        <link href="https://daily.bandcamp.com/album-of-the-day/dolphin-midwives-body-of-water-review"/>
-        <updated>2021-07-08T17:46:43.987Z</updated>
-        <content type="html"><![CDATA[<a href="/album-of-the-day/dolphin-midwives-body-of-water-review" class="thumb aotd-image">
-            
-                <aotd-ornament-small></aotd-ornament-small>
-                <img src="https://f4.bcbits.com/img/0025437497_2.jpg">
-                <aotd-ornament-small class="right"></aotd-ornament-small>
-
-            
-        </a>
-        
-            <div class="article-info-text">
-                <a class="franchise" href="/album-of-the-day">ALBUM OF THE DAY</a>
-                <span class="middot">·</span>
-                July 08, 2021
-            </div>
-        
-        <div class="title-wrapper"><a class="title" href="/album-of-the-day/dolphin-midwives-body-of-water-review">Dolphin Midwives, “Body of Water”</a></div>]]></content>
     </entry>
 </feed>
